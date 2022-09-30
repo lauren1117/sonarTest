@@ -1,3 +1,5 @@
+import Foundation
+
 let hourFormatter = DateFormatter()
 hourFormatter.locale = Locale.current
 hourFormatter.timeStyle = .short
